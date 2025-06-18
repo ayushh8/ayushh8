@@ -1,16 +1,72 @@
 ## Hi there 👋
 
-<!--
-**ayushh8/ayushh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Bhaskar Ayush Saha</h1>
+<h3 align="center">Final-year CSE Student | Full-Stack Developer | Blockchain Enthusiast | Open Source Contributor</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧑‍🎓 Final Year B.Tech CSE Student at **KIIT University (2022–2026)**
+- 💻 Passionate about full-stack development (MERN) & building real-world solutions
+- 🔐 Exploring Blockchain, AI, and Secure Infrastructure (Springer-published researcher)
+- 🛠️ Love contributing to Open Source, solving DSA, and teaching tech to beginners
+
+---
+
+### 👨‍💻 My Tech Stack
+
+- **Languages:** JavaScript, Python, Java, C, C++, SQL, Solidity
+- **Frameworks & Libraries:** React.js, Node.js, Express, Flask, Django, TensorFlow.js
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Tools:** Git, GitHub, Tailwind CSS, Docker, Selenium, Twilio, VS Code
+
+---
+
+### 🔥 Projects I’m Proud Of
+
+- 💬 [QuickTalk](https://github.com/ayushh8/QuickTalk): Real-time MERN Chat App with gender-based avatars
+- 💸 [Financely](https://github.com/ayushh8/Financely): Personal Finance Manager with JWT Auth & Charts
+- 🧠 [NeuroPaws](https://github.com/ayushh8/petCare): AI-Powered Pet Health Manager using TensorFlow.js
+- ♟️ [Chess.com Bot](https://github.com/ayushh8/ChessBot): GUI-based Chess Bot using Stockfish & Selenium
+
+---
+
+### 🧠 Research & Publications
+
+- 📄 *Secure and Transparent Exam Proctoring using Blockchain*  
+  *(Accepted, Springer Nature – 2025)*  
+  - Solidity + Ethereum + Decentralized Logs  
+  - Co-authored to enhance trust in online exam systems
+
+---
+
+### 🧑‍💼 Experiences
+
+- 🔹 **SDE Intern**, BlueStock Fintech (2024): Built full-stack IPO app using Django + PostgreSQL  
+- 🔹 **Web Dev Intern**, CodeClause (2024): Frontend & Backend improvements  
+- 🔹 **Python Full Stack (Virtual)**, AICTE: Flask, Tailwind, JS, Git, Database work
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [bhaskarayush1892@gmail.com](mailto:bhaskarayush1892@gmail.com)  
+- 🌐 Portfolio (coming soon!)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhaskar-ayush-saha-58a268287/) | [GitHub](https://github.com/ayushh8)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushh8&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ayushh8&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✍️ Personal Motto
+> “Stay curious, keep building, and never stop learning.”
+
