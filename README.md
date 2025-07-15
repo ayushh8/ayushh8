@@ -27,8 +27,8 @@
 
 - 💬 [QuickTalk](https://github.com/ayushh8/QuickTalk): Real-time MERN Chat App with gender-based avatars
 - 💸 [Financely](https://github.com/ayushh8/Financely): Personal Finance Manager with JWT Auth & Charts
-- 🧠 [NeuroPaws](https://github.com/ayushh8/petCare): AI-Powered Pet Health Manager using TensorFlow.js
-- ♟️ [Chess.com Bot](https://github.com/ayushh8/ChessBot): GUI-based Chess Bot using Stockfish & Selenium
+- 🧠 [FurstAdd](https://github.com/ayushh8/FurstAdd): Your Personal Pet Symptom Analyzer
+- ♟️ [GenAI Ad Variance Generator](https://github.com/ayushh8/Ad-Variance-Generator): It generates ad variations(images, and soon video)
 
 ---
 
