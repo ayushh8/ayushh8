@@ -16,10 +16,10 @@
 
 ### 👨‍💻 My Tech Stack
 
-- **Languages:** JavaScript, Python, Java, C, C++, SQL, Solidity
-- **Frameworks & Libraries:** React.js, Node.js, Express, Flask, Django, TensorFlow.js
+- **Languages:** JavaScript, Python, C, C++, SQL, Solidity
+- **Frameworks & Libraries:** React.js, Node.js, Express, FastAPI, Langchain/LangGraph
 - **Databases:** MongoDB, PostgreSQL, Firebase
-- **Tools:** Git, GitHub, Tailwind CSS, Docker, Selenium, Twilio, VS Code
+- **Tools/Technologies:** Git, NLP, RAGs, LLM, Tailwind CSS, Docker, Selenium, Twilio, VS Code
 
 ---
 
