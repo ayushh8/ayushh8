@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🧑‍🎓 Final Year B.Tech CSE Student at **KIIT University (2022–2026)**
-- 💻 Passionate about full-stack development (MERN) & building real-world solutions
+- 💻 Passionate about full-stack development (MERN), building real-world solutions & GenAI applications
 - 🔐 Exploring Blockchain, AI, and Secure Infrastructure (Springer-published researcher)
 - 🛠️ Love contributing to Open Source, solving DSA, and teaching tech to beginners
 
