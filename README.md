@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hey 👋, I'm Bhaskar Ayush Saha</h1>
 <h3 align="center">Final-year CSE Student | Full-Stack Developer | Blockchain Enthusiast | Open Source Contributor</h3>
